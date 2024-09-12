@@ -69,3 +69,37 @@ body {
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
 }
+/* Change background color of the navbar */
+.navbar.custom-navbar {
+  background-color: #4CAF50; /* Replace with your desired color */
+}
+
+/* Change the text color of links */
+.navbar.custom-navbar .nav-link {
+  color: white; /* Replace with your desired color */
+}
+
+/* Change the hover effect */
+.navbar.custom-navbar .nav-link:hover {
+  color: #FFD700; /* Optional: change hover color */
+}
+/* Set navbar background to green */
+.navbar.custom-navbar {
+  background-color: #1c8734; /* Green color */
+}
+
+/* Set navbar text color to white */
+.navbar.custom-navbar .navbar-nav .nav-link {
+  color: white; /* White text */
+}
+
+/* Ensure navbar brand text is white */
+.navbar.custom-navbar .navbar-brand {
+  color: white;
+}
+
+/* Optional: Change hover color for links */
+.navbar.custom-navbar .navbar-nav .nav-link:hover {
+  color: #FFD700; /* Gold hover color */
+}
+
